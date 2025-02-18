@@ -12,9 +12,15 @@
 
 ###
 
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanGh-Imp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false" height="149" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGh-Imp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=apprentice&hide_border=false" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanGh-Imp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AryanGh-Imp&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGh-Imp&locale=en&hide_title=false&layout=compact&card_width=320&theme=apprentice&hide_border=false" height="120" alt="languages graph"  />
 </div>
 
 ###
@@ -43,24 +49,13 @@
 ###
 
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AryanGh-Imp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 <h3 align="left">📱  Social Media :</h3>
 
 ###
 
 
-<div align="center">
+<div align="left">
   
   <a href="https://www.instagram.com/aryan_gh.pv?igsh=MXZpOXc4ZmxwbzRqYw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
