@@ -6,7 +6,7 @@
 
 ###
 
-📂 My university projects → [**SBU-CodeSpace**](https://github.com/SBU-CodeSpace)
+📂 My university projects → [**Aryan-SBU-CodeSpace**](https://github.com/Aryan-SBU-CodeSpace)
 
 ###
 
@@ -44,7 +44,7 @@
 
 ### 🚀 **My academic journey & university projects**  
 > All codes & projects during my studies at **Shahid Beheshti University** are available in the **SBU-CodeSpace** organization.  
-> 🔗 [**github.com/SBU-CodeSpace**](https://github.com/SBU-CodeSpace)
+> 🔗 [**github.com/Aryan-SBU-CodeSpace**](https://github.com/Aryan-SBU-CodeSpace)
 
 ---
 
