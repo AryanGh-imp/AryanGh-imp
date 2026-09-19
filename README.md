@@ -43,7 +43,7 @@
 
 
 ### 🚀 **My academic journey & university projects**  
-> All codes & projects during my studies at **Shahid Beheshti University** are available in the **SBU-CodeSpace** organization.  
+> All codes & projects during my studies at **Shahid Beheshti University** are available in the **Aryan-SBU-CodeSpace** organization.  
 > 🔗 [**github.com/Aryan-SBU-CodeSpace**](https://github.com/Aryan-SBU-CodeSpace)
 
 ---
