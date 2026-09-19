@@ -14,18 +14,6 @@
   <img height="500" src="https://iili.io/2yAwQyX.gif"  />
 </div>
 
-###
-
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=aryanGh-imp&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aryanGh-imp&theme=apprentice&hide_border=false" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanGh-imp&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="320 height="120" alt="languages graph"  />
-</div>
 
 ###
 
